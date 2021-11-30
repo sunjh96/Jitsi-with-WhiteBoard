@@ -35,7 +35,7 @@ const App = () => {
           </form>
         )}
       
-      <div><h4>JITSI with WHITEBOARD 사용 방법</h4>
+      <div><h4>Jitsi with WhiteBoard 사용 방법</h4>
         <details>
           <summary>단축키 보기</summary>
           <p>
