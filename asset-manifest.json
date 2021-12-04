@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Jitsi-with-WhiteBoard/static/css/main.4e0af883.chunk.css",
-    "main.js": "/Jitsi-with-WhiteBoard/static/js/main.9d04afae.chunk.js",
-    "main.js.map": "/Jitsi-with-WhiteBoard/static/js/main.9d04afae.chunk.js.map",
+    "main.js": "/Jitsi-with-WhiteBoard/static/js/main.00aff1fb.chunk.js",
+    "main.js.map": "/Jitsi-with-WhiteBoard/static/js/main.00aff1fb.chunk.js.map",
     "runtime-main.js": "/Jitsi-with-WhiteBoard/static/js/runtime-main.7b67b648.js",
     "runtime-main.js.map": "/Jitsi-with-WhiteBoard/static/js/runtime-main.7b67b648.js.map",
     "static/js/2.eaa20013.chunk.js": "/Jitsi-with-WhiteBoard/static/js/2.eaa20013.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.7b67b648.js",
     "static/js/2.eaa20013.chunk.js",
     "static/css/main.4e0af883.chunk.css",
-    "static/js/main.9d04afae.chunk.js"
+    "static/js/main.00aff1fb.chunk.js"
   ]
 }
