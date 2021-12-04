@@ -45,7 +45,7 @@ const App = () => {
           <summary>★화이트보드 연결 방법★</summary>
           <p>
             &nbsp;&nbsp;&nbsp;&nbsp;! 참여자 중 한분만 하시면 됩니다 !<br></br><br></br>
-            &nbsp;&nbsp;&nbsp;&nbsp;1. <a href='href=href=https://webwhiteboard.com' target='_blank'>화이트보드</a> 클릭 후 페이지를 개설합니다.<br></br>
+            &nbsp;&nbsp;&nbsp;&nbsp;1. <a href='https://webwhiteboard.com' target='_blank'>화이트보드</a> 클릭 후 페이지를 개설합니다.<br></br>
             &nbsp;&nbsp;&nbsp;&nbsp;2. 오른쪽 상단의 share board를 누르고 회의 채팅에 개설한 화이트보드 링크를 공유합니다.<br></br>
             &nbsp;&nbsp;&nbsp;&nbsp;3. 참여자 분들은 채팅창으로 공유된 링크로 이동하시면 실시간 화이트보드를 이용하실 수 있습니다.
           </p>
